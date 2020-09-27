@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489647559199",
+    "firebase_url": "https://hi-score-hero.firebaseio.com",
+    "project_id": "hi-score-hero",
+    "storage_bucket": "hi-score-hero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489647559199:android:d79c9daebb66c7f71bbb2a",
+        "android_client_info": {
+          "package_name": "com.kiliancerdan.HiScoreHero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489647559199-5qsg9a80u60f84dllea3ea18vvlk6kk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiliancerdan.HiScoreHero",
+            "certificate_hash": "b46d7753eb7be605801a2ff3e05a9f3a98da49e3"
+          }
+        },
+        {
+          "client_id": "489647559199-ri805gtna8snqudgtfrv9g3ci5oqmmbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZyo9lH8v1qOlkcWKol4GB3_t-YnOSdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489647559199-ri805gtna8snqudgtfrv9g3ci5oqmmbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
